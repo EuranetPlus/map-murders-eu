@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka monta henkirikosta EU:ssa kirjataan?",
+  "subtitle": "Vuonna 2024 EU-maissa kirjattiin keskimäärin 1,03 henkirikosta 100 000 asukasta kohden. Liettuassa luku oli korkein, 2,63, kun taas Luxemburgissa luku oli alhaisin, 0,30.",
+  "textNoteDescription": "Huomautus",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "100 000 asukasta kohden",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
