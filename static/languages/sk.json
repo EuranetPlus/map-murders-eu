@@ -1,13 +1,11 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Koľko vrážd je zaznamenaných v celej EÚ?",
+  "subtitle": "V roku 2024 zaznamenali krajiny EÚ priemerne 1,03 vrážd na 100 000 obyvateľov. Litva mala najvyššiu mieru s 2,63, zatiaľ čo Luxembursko zaznamenalo najnižšiu mieru s 0,30.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "na 100 000 obyvateľov",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
