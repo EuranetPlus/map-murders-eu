@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel moorden worden er in de EU geregistreerd?",
+  "subtitle": "In 2024 registreerden EU-landen gemiddeld 1,03 moorden per 100.000 inwoners. Litouwen had het hoogste aantal met 2,63, terwijl Luxemburg het laagste aantal registreerde met 0,30.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "per 100.000 inwoners",
   "tooltipExtraInfoLabel": "Klik hier"
 }
