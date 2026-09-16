@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile zabójstw odnotowuje się w UE?",
+  "subtitle": "W 2024 roku kraje UE odnotowały średnio 1,03 zabójstw na 100 000 mieszkańców. Najwyższy wskaźnik odnotowano na Litwie – 2,63, a najniższy w Luksemburgu – 0,30.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "na 100 000 mieszkańców",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
