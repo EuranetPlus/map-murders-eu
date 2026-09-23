@@ -1,11 +1,11 @@
 {
   "title": "Kolik vražd je zaznamenáno v celé EU?",
-  "subtitle": "V roce 2024 zaznamenaly země EU průměrně 1,03 vražd na 100 000 obyvatel. Litva měla nejvyšší míru s 2,63, zatímco Lucembursko zaznamenalo nejnižší míru s 0,30.",
+  "subtitle": "V roce 2024 byla průměrná míra v zemích Evropské unie 1,03 vražd na 100 000 obyvatel. Litva měla nejvyšší míru (2,63), zatímco Lucembursko nejnižší (0,30).",
   "textNoteDescription": "Poznámka",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
   "legend1": "Nejsou k dispozici žádná data",
-  "customUnitLabel": "na 100 000 obyvatel",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "tooltipExtraInfoLabel": "Klikněte zde",
+  "customUnitLabel": "na 100 000 obyvatel"
 }

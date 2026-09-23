@@ -1,11 +1,11 @@
 {
   "title": "Koľko vrážd je zaznamenaných v celej EÚ?",
-  "subtitle": "V roku 2024 zaznamenali krajiny EÚ priemerne 1,03 vrážd na 100 000 obyvateľov. Litva mala najvyššiu mieru s 2,63, zatiaľ čo Luxembursko zaznamenalo najnižšiu mieru s 0,30.",
+  "subtitle": "V roku 2024 bola priemerná miera v krajinách Európskej únie 1,03 vrážd na 100 000 obyvateľov. Litva mala najvyššiu mieru (2,63), zatiaľ čo Luxembursko malo najnižšiu (0,30).",
   "textNoteDescription": "Poznámka",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "customUnitLabel": "na 100 000 obyvateľov",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "customUnitLabel": "na 100 000 obyvateľov"
 }

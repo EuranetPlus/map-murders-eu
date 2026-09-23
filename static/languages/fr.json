@@ -1,11 +1,11 @@
 {
   "title": "Combien d'homicides sont enregistrés dans l'ensemble de l'UE ?",
-  "subtitle": "En 2024, les pays de l'UE ont enregistré en moyenne 1,03 homicide pour 100 000 habitants. La Lituanie affichait le taux le plus élevé (2,63), tandis que le Luxembourg enregistrait le taux le plus bas (0,30).",
+  "subtitle": "En 2024, le taux moyen d'homicides dans les pays de l'Union européenne était de 1,03 pour 100 000 habitants. La Lituanie affichait le taux le plus élevé (2,63), tandis que le Luxembourg présentait le plus bas (0,30).",
   "textNoteDescription": "Note",
   "textSourceDescription": "Source",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
   "legend1": "Aucune donnée disponible",
-  "customUnitLabel": "pour 100 000 habitants",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "customUnitLabel": "pour 100 000 habitants"
 }

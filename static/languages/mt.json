@@ -1,11 +1,11 @@
 {
   "title": "Kemm hemm omiċidji rreġistrati madwar l-UE?",
-  "subtitle": "Fl-2024, il-pajjiżi tal-UE rreġistraw medja ta’ 1.03 omiċidji għal kull 100,000 abitant. Il-Litwanja kellha l-ogħla rata b’2.63 filwaqt li l-Lussemburgu rreġistra l-inqas rata b’0.30.",
+  "subtitle": "Fl-2024, ir-rata medja fil-pajjiżi tal-Unjoni Ewropea kienet ta’ 1.03 omiċidji għal kull 100,000 abitant. Il-Litwanja kellha l-ogħla rata (2.63), filwaqt li l-Lussemburgu kellha l-aktar baxxa (0.30).",
   "textNoteDescription": "Nota",
   "textSourceDescription": "Sors",
   "textSource": "L-Eurostat (2026)",
   "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
-  "customUnitLabel": "għal kull 100,000 abitant",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
+  "customUnitLabel": "għal kull 100,000 abitant"
 }

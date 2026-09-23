@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
   "title": "How many homicides are recorded across the EU?",
-  "subtitle": "In 2024, EU countries recorded an average of 1.03 homicides per 100,000 inhabitants. Lithuania had the highest rate at 2.63 while Luxembourg recorded the lowest rate at 0.30.",
+  "subtitle": "In 2024, the average rate across European Union countries was 1.03 homicides per 100,000 inhabitants. Lithuania had the highest rate (2.63), while Luxembourg had the lowest (0.30).",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nBelgium,BE,1.40,FALSE,,,,,,,,,\nBulgaria,BG,1.23,FALSE,,,,,,,,,\nCzechia,CZ,0.63,FALSE,,,,,,,,,\nDenmark,DK,0.87,FALSE,,,,,,,,,\nGermany,DE,0.83,FALSE,,,,,,,,,\nEstonia,EE,1.82,FALSE,,,,,,,,,\nIreland,IE,0.69,FALSE,,,,,,,,,\nGreece,EL,0.78,FALSE,,,,,,,,,\nSpain,ES,0.72,FALSE,,,,,,,,,\nFrance,FR,1.28,FALSE,,,,,,,,,\nCroatia,HR,1.01,FALSE,,,,,,,,,\nItaly,IT,0.57,FALSE,,,,,,,,,\nCyprus,CY,0.93,FALSE,,,,,,,,,\nLatvia,LV,2.40,FALSE,,,,,,,,,\nLithuania,LT,2.63,FALSE,,,,,,,,,\nLuxembourg,LU,0.30,FALSE,,,,,,,,,\nHungary,HU,0.69,FALSE,,,,,,,,,\nMalta,MT,0.89,FALSE,,,,,,,,,\nNetherlands,NL,0.67,FALSE,,,,,,,,,\nAustria,AT,0.85,FALSE,,,,,,,,,\nPoland,PL,0.69,FALSE,,,,,,,,,\nPortugal,PT,0.68,FALSE,,,,,,,,,\nRomania,RO,0.79,FALSE,,,,,,,,,\nSlovenia,SI,0.71,FALSE,,,,,,,,,\nSlovakia,SK,1.09,FALSE,,,,,,,,,\nFinland,FI,1.78,FALSE,,,,,,,,,\nSweden,SE,0.87,FALSE,,,,,,,,,",
   "parsedData": [
@@ -439,7 +440,7 @@ export const mapConfig = writable({
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
     "title": "How many homicides are recorded across the EU?",
-    "subtitle": "In 2024, EU countries recorded an average of 1.03 homicides per 100,000 inhabitants. Lithuania had the highest rate at 2.63 while Luxembourg recorded the lowest rate at 0.30.",
+    "subtitle": "In 2024, the average rate across European Union countries was 1.03 homicides per 100,000 inhabitants. Lithuania had the highest rate (2.63), while Luxembourg had the lowest (0.30).",
     "textNoteDescription": "Note",
     "textNote": "",
     "textSourceDescription": "Source",

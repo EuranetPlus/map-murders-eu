@@ -1,11 +1,11 @@
 {
   "title": "Quanti omicidi vengono registrati in tutta l'UE?",
-  "subtitle": "Nel 2024, i paesi dell'UE hanno registrato una media di 1,03 omicidi ogni 100.000 abitanti. La Lituania ha avuto il tasso più alto, pari a 2,63, mentre il Lussemburgo ha registrato il tasso più basso, pari a 0,30.",
+  "subtitle": "Nel 2024, il tasso medio nei paesi dell'Unione Europea era di 1,03 omicidi ogni 100.000 abitanti. La Lituania ha registrato il tasso più alto (2,63), mentre il Lussemburgo quello più basso (0,30).",
   "textNoteDescription": "Nota",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "ogni 100.000 abitanti",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "ogni 100.000 abitanti"
 }

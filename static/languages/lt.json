@@ -1,11 +1,11 @@
 {
   "title": "Kiek žmogžudysčių užregistruojama visoje ES?",
-  "subtitle": "2024 m. ES šalyse vidutiniškai užfiksuota 1,03 žmogžudystės 100 000 gyventojų. Lietuvoje šis rodiklis buvo didžiausias – 2,63, o Liuksemburge – mažiausias – 0,30.",
+  "subtitle": "2024 m. vidutinis rodiklis Europos Sąjungos šalyse buvo 1,03 žmogžudystės 100 000 gyventojų. Lietuvoje šis rodiklis buvo didžiausias (2,63), o Liuksemburge – mažiausias (0,30).",
   "textNoteDescription": "Pastaba",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas (2026 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "customUnitLabel": "100 000 gyventojų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "customUnitLabel": "100 000 gyventojų"
 }

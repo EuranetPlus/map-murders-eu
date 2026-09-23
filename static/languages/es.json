@@ -1,11 +1,11 @@
 {
   "title": "¿Cuántos homicidios se registran en la UE?",
-  "subtitle": "En 2024, los países de la UE registraron un promedio de 1,03 homicidios por cada 100.000 habitantes. Lituania tuvo la tasa más alta, con 2,63, mientras que Luxemburgo registró la más baja, con 0,30.",
+  "subtitle": "En 2024, la tasa promedio en los países de la Unión Europea fue de 1,03 homicidios por cada 100.000 habitantes. Lituania registró la tasa más alta (2,63), mientras que Luxemburgo tuvo la más baja (0,30).",
   "textNoteDescription": "Nota",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
   "legend1": "No hay datos disponibles",
-  "customUnitLabel": "por cada 100.000 habitantes",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "customUnitLabel": "por cada 100.000 habitantes"
 }

@@ -1,11 +1,11 @@
 {
   "title": "Quantos homicídios são registrados em toda a UE?",
-  "subtitle": "Em 2024, os países da UE registaram uma média de 1,03 homicídios por cada 100.000 habitantes. A Lituânia teve a taxa mais elevada, com 2,63, enquanto o Luxemburgo registou a taxa mais baixa, com 0,30.",
+  "subtitle": "Em 2024, a taxa média nos países da União Europeia foi de 1,03 homicídios por 100.000 habitantes. A Lituânia apresentou a taxa mais alta (2,63), enquanto Luxemburgo teve a mais baixa (0,30).",
   "textNoteDescription": "Observação",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
   "legend1": "Não há dados disponíveis.",
-  "customUnitLabel": "por 100.000 habitantes",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "customUnitLabel": "por 100.000 habitantes"
 }

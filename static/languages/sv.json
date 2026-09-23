@@ -1,11 +1,11 @@
 {
   "title": "Hur många mord registreras i EU?",
-  "subtitle": "År 2024 registrerade EU-länderna i genomsnitt 1,03 mord per 100 000 invånare. Litauen hade den högsta andelen med 2,63 medan Luxemburg hade den lägsta andelen med 0,30.",
+  "subtitle": "År 2024 var den genomsnittliga andelen mord i EU-länderna 1,03 per 100 000 invånare. Litauen hade den högsta andelen (2,63), medan Luxemburg hade den lägsta (0,30).",
   "textNoteDescription": "Notera",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
-  "customUnitLabel": "per 100 000 invånare",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "tooltipExtraInfoLabel": "Klicka här",
+  "customUnitLabel": "per 100 000 invånare"
 }

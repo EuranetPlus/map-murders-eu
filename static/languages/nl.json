@@ -1,11 +1,11 @@
 {
   "title": "Hoeveel moorden worden er in de EU geregistreerd?",
-  "subtitle": "In 2024 registreerden EU-landen gemiddeld 1,03 moorden per 100.000 inwoners. Litouwen had het hoogste aantal met 2,63, terwijl Luxemburg het laagste aantal registreerde met 0,30.",
+  "subtitle": "In 2024 bedroeg het gemiddelde aantal moorden per 100.000 inwoners in de landen van de Europese Unie 1,03. Litouwen had het hoogste aantal (2,63), terwijl Luxemburg het laagste had (0,30).",
   "textNoteDescription": "Opmerking",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
   "legend1": "Geen gegevens beschikbaar",
-  "customUnitLabel": "per 100.000 inwoners",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "customUnitLabel": "per 100.000 inwoners"
 }

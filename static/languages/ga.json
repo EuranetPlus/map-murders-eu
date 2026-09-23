@@ -1,11 +1,11 @@
 {
   "title": "Cé mhéad dúnmharú a taifeadadh ar fud an AE?",
-  "subtitle": "Sa bhliain 2024, thaifead tíortha an AE meán de 1.03 dúnmharú in aghaidh gach 100,000 áitritheoir. Bhí an ráta is airde ag an Liotuáin ag 2.63 agus bhí an ráta is ísle ag Lucsamburg ag 0.30.",
+  "subtitle": "Sa bhliain 2024, ba é 1.03 dúnmharú in aghaidh gach 100,000 áitritheoir an meánráta ar fud thíortha an Aontais Eorpaigh. Bhí an ráta is airde sa Liotuáin (2.63), agus sa Lucsamburg an ráta is ísle (0.30).",
   "textNoteDescription": "Nóta",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "in aghaidh gach 100,000 áitritheoir",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "customUnitLabel": "in aghaidh gach 100,000 áitritheoir"
 }

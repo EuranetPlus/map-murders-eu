@@ -1,11 +1,11 @@
 {
   "title": "Ile zabójstw odnotowuje się w UE?",
-  "subtitle": "W 2024 roku kraje UE odnotowały średnio 1,03 zabójstw na 100 000 mieszkańców. Najwyższy wskaźnik odnotowano na Litwie – 2,63, a najniższy w Luksemburgu – 0,30.",
+  "subtitle": "W 2024 roku średni wskaźnik zabójstw w krajach Unii Europejskiej wyniósł 1,03 na 100 000 mieszkańców. Najwyższy wskaźnik odnotowano na Litwie (2,63), a najniższy w Luksemburgu (0,30).",
   "textNoteDescription": "Notatka",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
-  "customUnitLabel": "na 100 000 mieszkańców",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "customUnitLabel": "na 100 000 mieszkańców"
 }

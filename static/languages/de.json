@@ -1,11 +1,11 @@
 {
   "title": "Wie viele Tötungsdelikte werden in der EU insgesamt registriert?",
-  "subtitle": "Im Jahr 2024 verzeichneten die EU-Länder durchschnittlich 1,03 Tötungsdelikte pro 100.000 Einwohner. Litauen wies mit 2,63 die höchste Rate auf, Luxemburg mit 0,30 die niedrigste.",
+  "subtitle": "Im Jahr 2024 lag die durchschnittliche Mordrate in den Ländern der Europäischen Union bei 1,03 Tötungsdelikten pro 100.000 Einwohner. Litauen wies die höchste Rate (2,63) auf, Luxemburg die niedrigste (0,30).",
   "textNoteDescription": "Notiz",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "pro 100.000 Einwohner",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "customUnitLabel": "pro 100.000 Einwohner"
 }

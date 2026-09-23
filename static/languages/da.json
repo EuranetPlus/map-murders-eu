@@ -1,11 +1,11 @@
 {
   "title": "Hvor mange drab registreres i EU?",
-  "subtitle": "I 2024 registrerede EU-landene et gennemsnit på 1,03 drab pr. 100.000 indbyggere. Litauen havde den højeste rate med 2,63, mens Luxembourg registrerede den laveste rate med 0,30.",
+  "subtitle": "I 2024 var den gennemsnitlige drabsrate på tværs af EU-landene 1,03 drab pr. 100.000 indbyggere. Litauen havde den højeste rate (2,63), mens Luxembourg havde den laveste (0,30).",
   "textNoteDescription": "Note",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Få adgang til dataene",
   "legend1": "Ingen data tilgængelige",
-  "customUnitLabel": "pr. 100.000 indbyggere",
-  "tooltipExtraInfoLabel": "Klik her"
+  "tooltipExtraInfoLabel": "Klik her",
+  "customUnitLabel": "pr. 100.000 indbyggere"
 }

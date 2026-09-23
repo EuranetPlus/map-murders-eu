@@ -1,11 +1,11 @@
 {
   "title": "Câte omucideri sunt înregistrate în UE?",
-  "subtitle": "În 2024, țările UE au înregistrat o medie de 1,03 omucideri la 100.000 de locuitori. Lituania a avut cea mai mare rată, de 2,63, în timp ce Luxemburg a înregistrat cea mai mică rată, de 0,30.",
+  "subtitle": "În 2024, rata medie în țările Uniunii Europene a fost de 1,03 omucideri la 100.000 de locuitori. Lituania a avut cea mai mare rată (2,63), în timp ce Luxemburg a avut cea mai mică (0,30).",
   "textNoteDescription": "Nota",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
   "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "la 100.000 de locuitori",
-  "tooltipExtraInfoLabel": "Click aici"
+  "tooltipExtraInfoLabel": "Click aici",
+  "customUnitLabel": "la 100.000 de locuitori"
 }

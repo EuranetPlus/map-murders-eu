@@ -1,11 +1,11 @@
 {
   "title": "Koliko se ubojstava bilježi diljem EU?",
-  "subtitle": "U 2024. godini zemlje EU-a zabilježile su prosječno 1,03 ubojstva na 100.000 stanovnika. Litva je imala najvišu stopu od 2,63, dok je Luksemburg zabilježio najnižu stopu od 0,30.",
+  "subtitle": "U 2024. godini prosječna stopa u zemljama Europske unije bila je 1,03 ubojstva na 100.000 stanovnika. Litva je imala najvišu stopu (2,63), dok je Luksemburg imao najnižu (0,30).",
   "textNoteDescription": "Bilješka",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat (2026.)",
   "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
-  "customUnitLabel": "na 100.000 stanovnika",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "customUnitLabel": "na 100.000 stanovnika"
 }

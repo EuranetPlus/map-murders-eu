@@ -1,11 +1,11 @@
 {
   "title": "Koliko umorov je zabeleženih po vsej EU?",
-  "subtitle": "Leta 2024 so države EU zabeležile povprečno 1,03 umora na 100.000 prebivalcev. Litva je imela najvišjo stopnjo, 2,63, Luksemburg pa najnižjo, 0,30.",
+  "subtitle": "Leta 2024 je bila povprečna stopnja v državah Evropske unije 1,03 umora na 100.000 prebivalcev. Litva je imela najvišjo stopnjo (2,63), Luksemburg pa najnižjo (0,30).",
   "textNoteDescription": "Opomba",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
   "legend1": "Ni na voljo podatkov",
-  "customUnitLabel": "na 100.000 prebivalcev",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "customUnitLabel": "na 100.000 prebivalcev"
 }

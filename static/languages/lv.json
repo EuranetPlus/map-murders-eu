@@ -1,11 +1,11 @@
 {
   "title": "Cik slepkavību tiek reģistrētas visā ES?",
-  "subtitle": "2024. gadā ES valstīs vidēji tika reģistrētas 1,03 slepkavības uz 100 000 iedzīvotāju. Lietuvā bija visaugstākais rādītājs — 2,63, savukārt Luksemburgā — viszemākais — 0,30.",
+  "subtitle": "2024. gadā vidējais rādītājs Eiropas Savienības valstīs bija 1,03 slepkavības uz 100 000 iedzīvotāju. Lietuvā bija visaugstākais rādītājs (2,63), bet Luksemburgā - viszemākais (0,30).",
   "textNoteDescription": "Piezīme",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
   "legend1": "Dati nav pieejami",
-  "customUnitLabel": "uz 100 000 iedzīvotāju",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "customUnitLabel": "uz 100 000 iedzīvotāju"
 }
